@@ -1,8 +1,8 @@
 module.exports = {
   googleClientID:
-  'Your google client ID',
-  googleClientSecret: 'Your google secret',
+    "540636833307-qnfvmc6pj2t5vcqcke561jsh7ii1cdfq.apps.googleusercontent.com",
+  googleClientSecret: "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",
   mongoURI:
-  'YOur mongo connection string',
-  cookieKey: '123123123',
-  };
+    "mongodb+srv://shahin:shahinkona01@cluster0.ikfaf.mongodb.net/sickfits?retryWrites=true&w=majority",
+  cookieKey: "123123123",
+};
